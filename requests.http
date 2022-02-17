@@ -1,0 +1,2 @@
+### List all movies
+GET http://localhost:3001/
